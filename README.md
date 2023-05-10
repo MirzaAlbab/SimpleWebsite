@@ -1,1 +1,1 @@
-Simpe Website Using bootsrap Beta
+Simple Website Using bootsrap Beta
